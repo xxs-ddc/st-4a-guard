@@ -1,0 +1,8 @@
+{
+  "version": "4.2.2",
+  "scriptId": "5ded9f42-51af-4026-bfe6-05712d91db24",
+  "file": "st-4a-guard.json",
+  "name": "4A防路由 × 流式抗截断 v4.2.2（通用破盾版）",
+  "updatedAt": "2026-11-13T23:30:00+08:00",
+  "notes": "Plan A：内置离线完整代码 + GitHub / CDN 多镜像自动静默更新与一键检查刷新"
+}
