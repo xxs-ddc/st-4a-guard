@@ -1,8 +1,8 @@
 {
-  "version": "4.3.1",
+  "version": "4.3.2",
   "scriptId": "5ded9f42-51af-4026-bfe6-05712d91db24",
   "file": "st-4a-guard.json",
-  "name": "4A防路由 × 流式抗截断 v4.3.1（通用破盾版）",
-  "updatedAt": "2026-11-14T09:58:00+08:00",
-  "notes": "v4.3.1 修复同源 API 与流式请求偶发 Invalid CSRF token (403) 报错，完整保留 Headers/跨 iframe Request 请求头并支持 /csrf-token 自动刷新重放"
+  "name": "4A防路由 × 流式抗截断 v4.3.2（通用破盾版）",
+  "updatedAt": "2026-11-15T20:07:52+08:00",
+  "notes": "v4.3.2 修复切换至非 Konatan/此方预设后，聊天记录历史消息中的 <konatan_planning~> 等旧标签误触发 hasKonatanPresetSignature，导致系统头与尾部排版铁律继续强行注入上一预设思维链格式及误放行后台插件调用的问题"
 }
