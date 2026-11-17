@@ -1,8 +1,8 @@
 {
-  "version": "4.4.2",
+  "version": "4.4.3",
   "scriptId": "5ded9f42-51af-4026-bfe6-05712d91db24",
   "file": "st-4a-guard.json",
-  "name": "双马尾插件 v4.4.2",
-  "updatedAt": "2026-11-17T09:33:35+08:00",
-  "notes": "v4.4.2：4号工具调用抗截断默认关闭、移除日志页签、工具调用内核恢复为 -4A_v4.3.2_ 同款、界面文案优化（自动更新 / 开启后无额外TOKEN），保留 ST-BaiBai-Book 适配与全模型思考等级控制。"
+  "name": "双马尾插件 v4.4.3",
+  "updatedAt": "2026-11-17T12:54:09+08:00",
+  "notes": "v4.4.3：修正宿主页面判定（按 #send_form / #send_textarea / #sheld / #qr--bar / #chat 加权打分）；悬浮球改为 48px 圆形图标球，支持 left/top 定位、拖拽记忆位置与视口边界自动夹回。"
 }
