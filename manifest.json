@@ -1,8 +1,8 @@
 {
-  "version": "4.3.2",
+  "version": "4.4.2",
   "scriptId": "5ded9f42-51af-4026-bfe6-05712d91db24",
   "file": "st-4a-guard.json",
-  "name": "4A防路由 × 流式抗截断 v4.3.2（通用破盾版）",
-  "updatedAt": "2026-11-15T20:07:52+08:00",
-  "notes": "v4.3.2 修复切换至非 Konatan/此方预设后，聊天记录历史消息中的 <konatan_planning~> 等旧标签误触发 hasKonatanPresetSignature，导致系统头与尾部排版铁律继续强行注入上一预设思维链格式及误放行后台插件调用的问题"
+  "name": "双马尾插件 v4.4.2",
+  "updatedAt": "2026-11-17T09:33:35+08:00",
+  "notes": "v4.4.2：4号工具调用抗截断默认关闭、移除日志页签、工具调用内核恢复为 -4A_v4.3.2_ 同款、界面文案优化（自动更新 / 开启后无额外TOKEN），保留 ST-BaiBai-Book 适配与全模型思考等级控制。"
 }
