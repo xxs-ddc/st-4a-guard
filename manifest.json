@@ -1,8 +1,8 @@
 {
-  "version": "4.4.5",
+  "version": "4.4.6",
   "scriptId": "5ded9f42-51af-4026-bfe6-05712d91db24",
   "file": "st-4a-guard.json",
-  "name": "双马尾插件 v4.4.5",
-  "updatedAt": "2026-11-18T07:45:34+08:00",
-  "notes": "v4.4.5：精细接入 ST-BaiBai-Book（柏宝书），区分向量 Query 重写与记忆摘要/总结链路；向量端（Embedding/Rerank 及 Query 重写格式与参数）零膨胀无损兼容，摘要/总结端启用 <nvwa_standalone_core> 温和脱敏、多/尾置 System 降权合并、结构安全断词还原与多协议空回抢救。"
+  "name": "双马尾插件 v4.4.6",
+  "updatedAt": "2026-11-18T18:13:00+08:00",
+  "notes": "v4.4.6：移除激进 X-X 连字符兜底还原模块（全局正则注入、无差别合字与流式全汉字尾部暂存），并自动清理旧版遗留全局正则，保留词库精确还原与 ST-BaiBai-Book（柏宝书）完整适配。"
 }
