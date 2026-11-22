@@ -1,8 +1,8 @@
 {
-    "version":  "4.5.2",
-    "scriptId":  "5ded9f42-51af-4026-bfe6-05712d91db24",
-    "file":  "st-4a-guard.json",
-    "name":  "双马尾插件 v4.5.2",
-    "updatedAt":  "2026-11-21T23:38:00+08:00",
-    "notes":  "v4.5.2：补全 TRANS-AM / Interleaving 预设特征与空 type 正文请求识别，关闭第三方插件兼容时自动复位仅插件模式并同步状态/悬浮球，过滤过期仅插件旁路记录。"
+    "version": "4.5.7",
+    "scriptId": "5ded9f42-51af-4026-bfe6-05712d91db24",
+    "file": "st-4a-guard.json",
+    "name": "双马尾插件 v4.5.7",
+    "updatedAt": "2026-11-22T12:18:00+08:00",
+    "notes": "v4.5.7：1) 修复柏宝绘输入拦截与柏宝书输出截断（补齐淫衣/淫乐/淫邪/淫毒及 R18 门控 petite 词表、放开 full_armor/json_escape 全词表转码、复用 submit_story_output 工具流抗截断并支持 <thinking> 精简脱敏）；2) 补齐 Meowssiah-2.1.7 残留接管引信温和化与架空冲突客观语境声明，修复强迫场景英文拒答；3) 移除解码提示中的示例符号诱导并在解码器、流式暂存、防污染剥离、DOM 巡检与酒馆全局正则中兜底清除 ⟦U:...⟧ / \\uXXXX 占位符残留。"
 }
